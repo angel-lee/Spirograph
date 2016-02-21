@@ -1,4 +1,4 @@
-# Spirograph Simulator
+# Spirograph Simulator | Fall 2014
 
  A spirograph consists of a stator, rotor, and pen. The stator is the fixed outer circle and the rotor is the inner circle that moves inside the stator. The rotor contains holes that a pen could be placed on. Then, the rotor is placed inside the stator and the user moves and rotates the rotor around to create a shape called a hypotrochoid. This Java program emulates a spirograph toy, drawing a hypotrochoid dependent on the parameters of the stator, rotor, and pen.
 To begin, run the program. Then, adjust the parameters of the stator radius, rotor radius, pen location, pen stroke size, pen and background colors, and the animation speed to your liking. When you are ready, press Start and watch the animation begin. You may press Stop to stop the animation or wait until it ends. To set all parameters back to their default settings, press Reset.
