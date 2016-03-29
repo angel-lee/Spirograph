@@ -13,4 +13,4 @@ change any other parameters, you must first press Stop, then make the changes th
 
 ##Running the code through the command line:
 1. Navigate to where the code is located
-2. Type in "java Main"
+2. Type in `java Main`
