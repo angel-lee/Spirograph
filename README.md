@@ -10,3 +10,7 @@ To access the menu, click on File in the top left corner. If you click on Save i
 3. None of the values may be zero (except for the colors)
 4. While the pen is drawing, only the RGB sliders may still be moved. If you wish to
 change any other parameters, you must first press Stop, then make the changes that you wish to make.
+
+##Running the code through the command line:
+1. Navigate to where the code is stored
+2. Type in "java Main"
