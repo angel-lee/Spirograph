@@ -12,5 +12,5 @@ To access the menu, click on File in the top left corner. If you click on Save i
 change any other parameters, you must first press Stop, then make the changes that you wish to make.
 
 ##Running the code through the command line:
-1. Navigate to where the code is stored
+1. Navigate to where the code is located
 2. Type in "java Main"
